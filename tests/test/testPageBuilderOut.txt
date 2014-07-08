@@ -1,0 +1,9 @@
+<DOCTYPE !html>
+<html>
+	<body>
+		<p>Test text. Проверка.
+		<div>
+			Какие-то данные.
+		</div>
+	</body>
+</text>

@@ -31,10 +31,10 @@ DO NOT USE IT IN YOUR PROJECTS! (Just in case, i don't think someone would :) )
   
 - ./test/
   -=Unit tests for framework modules=-
-  AllTheTests.php - automatically runs all the unit test in this folder
-  TestApplication.php - Application class unit test
-  TestCache.php - CacheProvider unit test
-  TestMailer.php - Mailer unit test
-  TestPageBuilder.php - Template engine unit test
-  TestTemplates.php - Template engine unit test
-  TestTestCase.php - TestCase unit test
+  - AllTheTests.php - automatically runs all the unit test in this folder
+  - TestApplication.php - Application class unit test
+  - TestCache.php - CacheProvider unit test
+  - TestMailer.php - Mailer unit test
+  - TestPageBuilder.php - Template engine unit test
+  - TestTemplates.php - Template engine unit test
+  - TestTestCase.php - TestCase unit test
